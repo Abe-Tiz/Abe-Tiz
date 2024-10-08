@@ -3,7 +3,7 @@
 <h2 align="left">💫 About Me</h2>
 
 <p align="left">
-I'm a passionate Full Stack Developer specializing in JavaScript, Node.js, React, React Native, and the MERN stack. I enjoy solving problems and building scalable, efficient applications.
+ JavaScript, Node.js, React, React Native, and the MERN stack Developer. I enjoy solving problems and building scalable, efficient applications.
 </p>
 
 ---
@@ -37,11 +37,14 @@ I'm a passionate Full Stack Developer specializing in JavaScript, Node.js, React
 
 ### 🌐 Connect with me:
 <p align="left">
-  <a href="linkedin.com/in/abe-ti/" target="blank">
+  <a href="httplinkedin.com/in/abe-ti/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="[https://github.com/Abe-tiz](https://github.com/Abe-tiz/)" target="blank">
+  <a href="https://github.com/Abe-tiz" target="blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://medium.com/@abebetizazu157" target="blank">
+     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
 </p>
 
